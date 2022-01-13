@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnad99
-- 👀 I’m interested in Data Science, Deep Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Statistics, Machine Learning and MySQL.
+- 👀 I’m interested in Data Science, Deep Learning and Artificial Intelligence, Backend Engineering.
+- 🌱 I’m currently learning Statistics, Machine Learning MySQL, Firebase, Big Query, Django, and Selenium.
 - 📫 How to reach me: (linkedin.com/in/sulaimannad) or on my e-mail (sunnad99@gmail.com).
 
 <!---
