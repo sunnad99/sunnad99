@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnad99
 - 👀 I’m interested in DevOps, Frontend and Backend Engineering and System Design.
-- 🌱 I’m currently learning MySQL, Firebase, Big Query, Django, HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Postgres, Firebase, GCP, FastAPI, FullStack Dev in NextJS.
 - 📫 How to reach me: (linkedin.com/in/sulaimannad) or on my e-mail (sunnad99@gmail.com).
 
 <!---
